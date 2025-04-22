@@ -1,0 +1,18 @@
+{
+    "aprendices": [
+        { 
+            "id": "1", 
+            "nombre": "Cristian", 
+            "apellido": "Perez", 
+            "estaMatriculado" : true, 
+            "email" : "juan@gmail.com"
+        },
+        { 
+            "id": "2", 
+            "nombre": "Anguie", 
+            "apellido": "Lopez", 
+            "estaMatriculado" : true, 
+            "email" : "anguie@gmail.com"
+        }
+    ]
+  }
