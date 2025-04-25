@@ -1,18 +1,53 @@
 {
-    "aprendices": [
-        { 
-            "id": "1", 
-            "nombre": "Cristian", 
-            "apellido": "Perez", 
-            "estaMatriculado" : true, 
-            "email" : "juan@gmail.com"
-        },
-        { 
-            "id": "2", 
-            "nombre": "Anguie", 
-            "apellido": "Lopez", 
-            "estaMatriculado" : true, 
-            "email" : "anguie@gmail.com"
-        }
-    ]
-  }
+  "aprendices": [
+    {
+      "id": "1",
+      "nombre": "Cristian",
+      "apellido": "Perez",
+      "estaMatriculado": true,
+      "email": "juan@gmail.com"
+    },
+    {
+      "id": "2",
+      "nombre": "Anguie",
+      "apellido": "asdgasfg",
+      "estaMatriculado": "true",
+      "email": "anguie@gmail.com"
+    },
+    {
+      "id": "3",
+      "nombre": "Angel",
+      "apellido": "Gutierrez",
+      "estaMatriculado": "true",
+      "email": "angel@gamail.com"
+    },
+    {
+      "id": "4",
+      "nombre": "Santi",
+      "apellido": "Ruiz",
+      "estaMatriculado": "true",
+      "email": "santi@gamil.com"
+    },
+    {
+      "id": "5",
+      "nombre": "Luis",
+      "apellido": "Franco",
+      "estaMatriculado": "true",
+      "email": "noob@gmail.com"
+    },
+    {
+      "id": "6",
+      "nombre": "Nicolas",
+      "apellido": "Guarin",
+      "estaMatriculado": "true",
+      "email": "guarin@gmail.com"
+    },
+    {
+      "id": "7",
+      "nombre": "Jhoan",
+      "apellido": "Montes",
+      "estaMatriculado": "true",
+      "email": "montres@gamcil.com"
+    }
+  ]
+}
